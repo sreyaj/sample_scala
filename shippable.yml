@@ -1,5 +1,5 @@
 language: scala
-build_image: u12scaall:tip
+build_image: drydock/u12scaall:tip
 
 scala:
     - 2.11.0
